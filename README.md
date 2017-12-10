@@ -1,1 +1,1 @@
-A thinking on how Querying a data can change the way things work on browser and how to run program on browser multi-event independent transition. Great explaination by Morten Rand-Hendriksen on Lynda.com under the course title "Java Script Essential Traing"
+A thinking on how Querying a data can change the way things work on browser and how to run program on browser multi-event independent transition. Great explaination by Morten Rand-Hendriksen on Lynda.com under the course title "Java Script Essential Training"
