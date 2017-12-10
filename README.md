@@ -1,0 +1,1 @@
+A thinking on how Querying a data can change the way things work on browser and how to run program on browser multi-event independent transition.
